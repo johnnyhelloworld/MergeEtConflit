@@ -1,3 +1,3 @@
-# MergeEtConflit
+LOCAL
 
 C'est la bagarre ! Baston !
